@@ -52,7 +52,8 @@ Thông tin ghi nhận trong ảnh: thời gian phản hồi **243 ms**, kích th
 
 ### Ảnh kết quả
 
-![Kết quả kiểm thử API thời tiết trên Postman](docs/img.png)
+<img width="1874" height="1034" alt="image" src="https://github.com/user-attachments/assets/043ac781-f77e-4ec3-a75d-48aec7b16488" />
+
 
 ### Response body
 
