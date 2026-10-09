@@ -1,6 +1,6 @@
-# Lab 7: Testing with Postman
 
-Người kiểm thử: Phạm Lê Đình An
+
+Người kiểm thử: Lưu Quang Dũng
 
 ## 1. Mục tiêu kiểm thử
 
